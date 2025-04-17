@@ -1,4 +1,3 @@
-# -SQL-Queries-with-Aggregate-Functions-and-Clauses
 
 # 📊 SQL Queries with Aggregate Functions and Clauses
 
