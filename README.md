@@ -7,8 +7,8 @@ This repository contains a collection of SQL queries demonstrating the use of **
 
 ## 👥 Collaborators
 
-- [Sudha] (https://github.com/sudha7549)
-- [Niranjan] (https://github.com/niranjankum620)
+- [Sudhanshu] ➡ https://github.com/sudha7549
+- [Niranjan] ➡ https://github.com/niranjankum620
 
 ---
 
